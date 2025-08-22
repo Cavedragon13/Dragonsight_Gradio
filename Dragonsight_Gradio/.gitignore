@@ -1,0 +1,4 @@
+.DS_Store
+dragonsight_env/
+*.pyc
+__pycache__/
